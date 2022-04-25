@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">OOP_Laba__2</string>
+
+    <string name="main_nav_bottom_menu">Главная</string>
+    <string name="news_nav_bottom_menu">Новости</string>
+    <string name="collections_nav_bottom_menu">Подборки</string>
+    <string name="favourite_nav_bottom_menu">Избранное</string>
+    <string name="profile_nav_bottom_menu">Профиль</string>
+
+    <string name="info">Выполнил студент 4 курса группы ИВТ-3\n\nКрыжевич Артём Александрович</string>
+
+    <string name="hint_search_news">Поиск по новостям</string>
+    <string name="string1">Сдаются новые квартиры</string>
+    <string name="string1_1">ЖК Лондон</string>
+    <string name="string2">Паркинг доступен для всех</string>
+    <string name="string2_1">ЖК Скандинавия</string>
+    <string name="string3">Топ красивых балконов Москвы</string>
+    <string name="string3_1">ЖК Лондон</string>
+    <string name="string4">Открыта новая школа №130</string>
+    <string name="string4_1">ЖК LIFE-Кутузовский</string>
+    <string name="string5">Сдаются новые квартиры</string>
+    <string name="string5_1">ЖК Лондон</string>
+    <string name="string6">Паркинг доступен для всех</string>
+    <string name="string6_1">ЖК Скандинавия</string>
+
+    <string name="hint_search_collection">Поиск по подборкам</string>
+    <string name="create_new_collection">Создать новую подборку</string>
+
+    <string name="sasha">Для Саши</string>
+    <string name="andrey">Для Андрея</string>
+    <string name="new_collection">Новая подборка</string>
+    <string name="str1">Жилые комплексы</string>
+
+    <string name="filters_arrow_back">Назад</string>
+    <string name="title_profile">Редактировать</string>
+
+    <string name="profile_input_1">Имя фамилия</string>
+    <string name="profile_input_2">Телефон</string>
+    <string name="profile_input_3">Электронная почта</string>
+    <string name="profile_input_4">Должность</string>
+    <string name="profile_input_5">Компания</string>
+    <string name="profile_input_6">Расскажите о себе</string>
+
+    <string name="profile_text_view_1">Ссылки на социальные сети</string>
+
+    <string name="profile_input_7">Facebook</string>
+    <string name="profile_input_8">Вконтакте</string>
+    <string name="profile_input_9">Telegram</string>
+
+    <string name="main_button_profile">Сохранить</string>
+
+</resources>
